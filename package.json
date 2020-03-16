@@ -24,6 +24,7 @@
   },
   "author": "Srinivas S <sriniwas.sunkara95@gmail.com>",
   "scripts": {
+  "start": "node server.ts",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "test:unit": "vue-cli-service test:unit",
